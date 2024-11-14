@@ -5,13 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JnAbPBaykCh7de7E7RVl-2" value="Perception" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JnAbPBaykCh7de7E7RVl-3" value="Movement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JnAbPBaykCh7de7E7RVl-4" value="Movement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="JnAbPBaykCh7de7E7RVl-4" value="Processing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JnAbPBaykCh7de7E7RVl-5" value="Mechanical analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

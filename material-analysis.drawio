@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.6">
   <diagram name="Page-1" id="7bqYDn4bwgFGMShZPPWz">
-    <mxGraphModel dx="1434" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="HMBUjv-r00Z2-jAlaLGb-9" value="Analyze improvements per terrain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HMBUjv-r00Z2-jAlaLGb-10" value="&lt;div align=&quot;left&quot;&gt;Brittleness&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Bulk modulus&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Coeff of restitution&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Compressive strength&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Creep&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Density&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Ductility&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Durability&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Elasticity&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Fatigue limit&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Flexural modulus&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Flexural strength&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Fracture toughness&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Friction coeff&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Hardness&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Maleability&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Mass diffusivity&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Plasticity&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Poisson&#39;s ratio&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Resilence&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Shear modulus&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Shear strength&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Slip&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Specific modulus&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Specific strength&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Specific weight&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Surface roughness&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Tensile strength&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Toughness&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;VIscosity&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Yield strength&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Young&#39;s modulus&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="80" width="180" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

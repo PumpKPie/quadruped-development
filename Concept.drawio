@@ -1,20 +1,32 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.9.0">
   <diagram name="Page-1" id="r7mFgznGYAY2-aYnE4D_">
-    <mxGraphModel dx="1434" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JnAbPBaykCh7de7E7RVl-2" value="Perception" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="JnAbPBaykCh7de7E7RVl-2" value="Vision" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JnAbPBaykCh7de7E7RVl-3" value="Movement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JnAbPBaykCh7de7E7RVl-3" value="Movement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JnAbPBaykCh7de7E7RVl-4" value="Processing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="JnAbPBaykCh7de7E7RVl-4" value="Data analysis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JnAbPBaykCh7de7E7RVl-5" value="Mechanical analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="JnAbPBaykCh7de7E7RVl-5" value="Mechanical analysis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HdblqfoeY3E4P0uTqF1y-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#78FFF6;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HdblqfoeY3E4P0uTqF1y-2" value="Initialization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2B3FF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HdblqfoeY3E4P0uTqF1y-4" value="Goal - changing dynamically" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HdblqfoeY3E4P0uTqF1y-5" value="Goal - changing dynamically" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

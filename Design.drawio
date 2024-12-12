@@ -31,6 +31,12 @@
         <mxCell id="V0RjbLDTPT6KQcX2KNsg-13" value="Theoretical" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="90" y="880" width="20" height="710" as="geometry" />
         </mxCell>
+        <mxCell id="V0RjbLDTPT6KQcX2KNsg-14" value="Motion planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="980" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V0RjbLDTPT6KQcX2KNsg-15" value="Spacial awareness" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="880" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

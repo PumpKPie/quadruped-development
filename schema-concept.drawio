@@ -55,6 +55,12 @@
         <mxCell id="onsYoh0pytFvfcH86_cc-11" value="Primirea comenzii" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="990" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-19" value="Navigare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-20" value="Semnal catre membrele robotului" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

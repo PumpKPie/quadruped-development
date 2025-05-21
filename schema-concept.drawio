@@ -8,10 +8,28 @@
           <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-2" value="Conditii de rulare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="onsYoh0pytFvfcH86_cc-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="onsYoh0pytFvfcH86_cc-3" value="Procesare de imagine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-4" value="Detectare margini utilizand Sobel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-5" value="Estimarea disparitatii" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-6" value="Crearea unui point cloud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-7" value="Filtrarea si intelegerea mediului" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-8" value="Incadrarea obstacolelor intr-un grid 3D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-9" value="Incadrarea obstacolelor intr-un grid 3D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

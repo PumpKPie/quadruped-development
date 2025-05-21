@@ -67,16 +67,11 @@
         <mxCell id="onsYoh0pytFvfcH86_cc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-19" target="onsYoh0pytFvfcH86_cc-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-19" target="onsYoh0pytFvfcH86_cc-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-19" value="Navigare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="onsYoh0pytFvfcH86_cc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-20" target="onsYoh0pytFvfcH86_cc-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="450" y="1450" />
-              <mxPoint x="450" y="460" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-20" value="Semnal catre membrele robotului" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1420" width="120" height="60" as="geometry" />
@@ -96,7 +91,7 @@
         <mxCell id="onsYoh0pytFvfcH86_cc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.508;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-23" target="onsYoh0pytFvfcH86_cc-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="onsYoh0pytFvfcH86_cc-29" value="Transmitere date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="onsYoh0pytFvfcH86_cc-29" value="Comprimare imagini" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-31" target="onsYoh0pytFvfcH86_cc-33">
@@ -128,6 +123,12 @@
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-42" value="Setare conditie initiala motoare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-50" target="onsYoh0pytFvfcH86_cc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-50" value="Transmitere date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

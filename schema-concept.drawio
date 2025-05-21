@@ -8,31 +8,52 @@
           <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-2" value="Conditii de rulare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="onsYoh0pytFvfcH86_cc-3" value="Procesare de imagine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="onsYoh0pytFvfcH86_cc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-3" target="onsYoh0pytFvfcH86_cc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-3" value="Rectificare si alinierea imaginilor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-4" target="onsYoh0pytFvfcH86_cc-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-4" value="Detectare margini utilizand Sobel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-5" target="onsYoh0pytFvfcH86_cc-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-5" value="Estimarea disparitatii" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-6" target="onsYoh0pytFvfcH86_cc-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-6" value="Crearea unui point cloud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="670" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-7" target="onsYoh0pytFvfcH86_cc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-7" value="Filtrarea si intelegerea mediului" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-8" target="onsYoh0pytFvfcH86_cc-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-8" value="Incadrarea obstacolelor intr-un grid 3D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-9" target="onsYoh0pytFvfcH86_cc-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-9" value="Aproximarea spatiului ce poate fi parcurs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-11" value="Primirea comenzii" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

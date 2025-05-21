@@ -4,14 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="onsYoh0pytFvfcH86_cc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-1" target="onsYoh0pytFvfcH86_cc-32">
+        <mxCell id="onsYoh0pytFvfcH86_cc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-1" target="onsYoh0pytFvfcH86_cc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-1" target="onsYoh0pytFvfcH86_cc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-1" target="onsYoh0pytFvfcH86_cc-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-1" value="Unitate decizionala" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="onsYoh0pytFvfcH86_cc-2" value="Conditii de rulare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-3" target="onsYoh0pytFvfcH86_cc-4">
           <mxGeometry relative="1" as="geometry" />
@@ -67,6 +70,14 @@
         <mxCell id="onsYoh0pytFvfcH86_cc-19" value="Navigare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-20" target="onsYoh0pytFvfcH86_cc-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="1450" />
+              <mxPoint x="450" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-20" value="Semnal catre membrele robotului" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -92,28 +103,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-31" value="Baterie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="onsYoh0pytFvfcH86_cc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-32" target="onsYoh0pytFvfcH86_cc-36">
+        <mxCell id="onsYoh0pytFvfcH86_cc-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-32" target="onsYoh0pytFvfcH86_cc-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-32" value="modul de comunicare wireless" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-33" target="onsYoh0pytFvfcH86_cc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-33" value="Regulator de tensiune" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-36" value="transmitere date intermediu CAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-39" target="onsYoh0pytFvfcH86_cc-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="onsYoh0pytFvfcH86_cc-39" value="stabilire viteza de deplasare si amplasare pasi &amp;lt;= viteza de comanda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="onsYoh0pytFvfcH86_cc-39" value="Stabilire viteza de deplasare si amplasare pasi &amp;lt;= viteza de comanda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-42" value="Setare conditie initiala motoare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

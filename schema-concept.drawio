@@ -55,7 +55,7 @@
         <mxCell id="onsYoh0pytFvfcH86_cc-9" value="Aproximarea spatiului ce poate fi parcurs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="onsYoh0pytFvfcH86_cc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-11" target="onsYoh0pytFvfcH86_cc-19">
+        <mxCell id="onsYoh0pytFvfcH86_cc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-11" target="onsYoh0pytFvfcH86_cc-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-11" value="Primirea comenzii" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -65,10 +65,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-19" value="Navigare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-20" value="Semnal catre membrele robotului" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1340" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-23" target="onsYoh0pytFvfcH86_cc-11">
           <mxGeometry relative="1" as="geometry" />
@@ -108,6 +108,12 @@
         </mxCell>
         <mxCell id="onsYoh0pytFvfcH86_cc-36" value="transmitere date intermediu CAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onsYoh0pytFvfcH86_cc-39" target="onsYoh0pytFvfcH86_cc-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-39" value="stabilire viteza de deplasare si amplasare pasi &amp;lt;= viteza de comanda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

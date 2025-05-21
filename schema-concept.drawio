@@ -28,8 +28,11 @@
         <mxCell id="onsYoh0pytFvfcH86_cc-8" value="Incadrarea obstacolelor intr-un grid 3D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="onsYoh0pytFvfcH86_cc-9" value="Incadrarea obstacolelor intr-un grid 3D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="onsYoh0pytFvfcH86_cc-9" value="Aproximarea spatiului ce poate fi parcurs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onsYoh0pytFvfcH86_cc-11" value="Primirea comenzii" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
